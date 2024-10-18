@@ -144,3 +144,6 @@ export {
     esVocal,
     evaluarNumeros,
 };
+
+
+// Por Vania Ruiz Diaz Solis

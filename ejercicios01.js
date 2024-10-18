@@ -103,3 +103,5 @@ module.exports = {
     logAge,
     logVersion,
 };
+
+// Por Vania Ruiz Diaz Solis
